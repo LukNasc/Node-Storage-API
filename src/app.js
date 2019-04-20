@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 //Conexão com BD
-mongoose.connect("mongodb+srv://lucas:<password>@cluster0-mqoji.mongodb.net/test?retryWrites=true");
+mongoose.connect("mongodb+srv://<username>:<password>@cluster0-mqoji.mongodb.net/test?retryWrites=true");
 
 const app = express();
 const router = express.Router();
