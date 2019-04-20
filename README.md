@@ -59,8 +59,8 @@ você precisa enviar um body da seguinte forma:
 	"price": 18200,
 	"active": true,
 	"tags":[
-			"informatica",
-      "tecnologia"
+	    "informatica",
+            "tecnologia"
       ]
 }
 ```
