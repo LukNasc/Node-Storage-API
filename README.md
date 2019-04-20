@@ -20,7 +20,7 @@ o projeto é básico, apenas com dois tipos de solicitação, __GET__ e __POST__
 
 A API é para registrar e ler produtos e você pode testar no Postman da seguinte forma:
 
-Utilizando a URL __http>//(seu link local):(porta)/products__   
+Utilizando a URL __http://(seu link local):(porta)/products__   
 __ex:__ localhost:3000/products
 
 se a requisição estiver marcada com tipo GET  
