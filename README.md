@@ -65,7 +65,7 @@ você precisa enviar um body da seguinte forma:
 }
 ```
 
-dessa forma você terá apenas dois tipos de retorno:  
+dessa forma você terá apenas duas possibilidades de retorno:  
 
 __201 -> Produto cadastrado com sucesso  
 400 -> Falha ao cadastrar produto__
