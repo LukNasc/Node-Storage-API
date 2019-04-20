@@ -47,7 +47,7 @@ o servidor irá retornar um JSON da seguinte forma:
 fique atento ao log do seu terminal quando executar este servidor,  
 pois é lá que você pode ver a porta que o servidor vai está rodando
   
-Utilizando a mesma URL mas com requisição tipo POST você irá fazer tentar gravar  
+Utilizando a mesma URL mas com requisição tipo POST você vai estar tentando persistir  
 algum dado no banco de dados, mas para que isso não lhe retorne um erro 400  
 você precisa enviar um body da seguinte forma: 
 
